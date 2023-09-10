@@ -19,7 +19,7 @@
 1. Notion
 1. Tutorial: Hot Corners
 1. Discussion: Productivity Tips
-1. Portfolios: First Post
+1. Portfolio: First Post
 
 #### To-do items
 - [ ] Be sure you've made a first post in your portfolio [on Notion](https://notion.so).
