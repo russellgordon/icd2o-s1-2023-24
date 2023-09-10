@@ -3,4 +3,7 @@
 ---
 
 # This is a top-level heading, or H1
-Hello worl!
+
+Hello world!
+
+We should have a nicer looking theme now. Maybe the favicon too?
