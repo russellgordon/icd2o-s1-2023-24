@@ -1,28 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/thread-1/day-1/","dgHomeLink":true}
+{"dg-publish":true,"permalink":"/thread-1/day-1/","tags":["recipe","cooking"],"dgHomeLink":true}
 ---
 
 ### Thread 1, Day 1 - Monday, September 11, 2023
 #### Agenda
-1. LCAT
-	- Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
-2. Tying Shoelaces Exercise
-	- Takeaways:
-		- Computers take instructions literally. Very literally.
-		- There are two kinds of errors, *syntax- and *logical*.
-			- A syntax error is when the computer does not understand an instruction.
-			- A logical error is when the computer understands and carries out an instruction, but the result is not what the programmer intended.
-3. Joining [our class on Spaces](https://ca.spacesedu.com/class/CA-C0VYMY94).
-	- This space is for shared posts you want everyone to see:
-	  ![[Screen Shot 2022-09-17 at 6.45.07 PM.png\|Screen Shot 2022-09-17 at 6.45.07 PM.png]]
-	- This space is for private portfolio posts that will only be seen by Mr. Gordon:
-	  ![[Screen Shot 2022-09-17 at 6.45.28 PM.png\|Screen Shot 2022-09-17 at 6.45.28 PM.png]]
-4. Complete your [Name Coach profile](https://www.name-coach.com/events/name-profile/registrations/new)
-	- Please post this to the private portfolio space on Spaces.
-5. Think-Pair-Share: Computer Productivity Tips
-	- See the great posts in our shared class space [on Spaces](https://ca.spacesedu.com/).
-6. Setting Up Course Folders
-	- Create subject folders for all your courses on your Desktop.
-	- Consider [creating hot corners](https://support.apple.com/en-ca/guide/mac-help/mchlp3000/mac) for key actions on your Mac.
+1. Activity: Ultimate Rock-Paper-Scissors
+	- Starting with 16 people, after just four rounds, we found a champion.
+	- The speed with which one member of our class was found to be the ultimate Rock-Paper-Scissors champion is similar to the efficiency of the [binary search algorithm](https://yongdanielliang.github.io/animation/web/BinarySearchNew.html).
+		- An *algorithm* is nothing more than a series of steps taken to accomplish a goal.
+		- Worst case, using binary search with a sorted list of 16 numbers, a target number can be found with 4 comparisons. 
+1. Course Outline
+	- Using the think-pair-share protocol to review and ask clarifying questions about the structure of this course.
+1. Required Course Materials
+	- Hardcover notebooks with graph paper, and copies of [A Pocket Guide to Debugging](https://store.wizardzines.com/products/the-pocket-guide-to-debugging) were distributed.
+	- Costs will be billed back to your family's account.
+	> [!NOTE]
+	> If you missed today's class, see Mr. Gordon to obtain these required course materials.
+1. Tutorial: Installing Google Drive for Desktop
+	- Learn how to synchronize files between cloud storage in Google Drive and your local computer's storage.
+1. Activity: Tying Shoelaces
+	- Computers take instructions very literally.
+	- There are two kinds of errors: *syntax* and *logical*.
+		- A syntax error is when the computer does not understand an instruction.
+		- A logical error is when the computer understands and carries out an instruction, but the result is not what the programmer intended.
+1. Notion
+	- Creating a Notion account.
+	- Using Notion to provide evidence of learning in your portfolio.
+	- Using Notion to share tips and discuss ideas with your peers.
+	- Adding bookmarks to your portfolio and our class discussion page on Notion.
+1. Tutorial: Hot Corners
+	- Learn how to use the corners of your desktop to activate common tasks in macOS.
+1. Discussion: Computer Productivity Tips
+	- Using the think-pair-share protocol to discuss something that helps you be productive when using your computer or phone.
+	- Sharing what you know with the class through Notion.
+1. Portfolios
+	- Making your first post.
+		- Beyond the standard prompts, please tell Mr. Gordon what you are most interested in learning about this year.
 #### To-do items
-- [ ] Be sure you've completed your [Name Coach profile](https://www.name-coach.com/events/name-profile/registrations/new) and posted it in the private portfolio space [on Spaces](https://ca.spacesedu.com/).
+- [ ] Be sure you've made a first post in your portfolio [on Notion](https://notion.so).
