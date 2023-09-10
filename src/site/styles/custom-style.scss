@@ -66,6 +66,10 @@ body {
         text-decoration: underline !important;
     }
 
+    div.navbar-inner > a {
+        text-decoration: none !important;
+    }
+
     /* Set sizes for headings */
     --h1-size: 2em;
     --h2-size: 1.8em;
