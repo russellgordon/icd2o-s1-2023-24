@@ -17,6 +17,7 @@
 1. Tutorial: [[Tutorials/Syncing Files from Cloud Storage\|Syncing Files from Cloud Storage]]
 1. Portfolio: [Notion](https://notion.so)
 1. Portfolio: First Post
+1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]] 
 
 #### To-do items
 - [ ] Be sure you've made a first post in your portfolio [on Notion](https://notion.so).
