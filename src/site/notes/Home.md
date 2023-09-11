@@ -17,7 +17,7 @@
 1. Tutorial: [[Tutorials/Syncing Files from Cloud Storage\|Syncing Files from Cloud Storage]]
 1. Activity: Parsing Instructions
 1. Notion
-1. Tutorial: Hot Corners
+1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
 1. Discussion: Productivity Tips
 1. Portfolio: First Post
 
