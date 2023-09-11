@@ -14,7 +14,7 @@
 1. Activity: Ultimate Rock-Paper-Scissors
 1. Course Outline
 1. Required Course Materials
-1. Tutorial: Syncing Files from Cloud Storage
+1. Tutorial: [[Tutorials/Syncing Files from Cloud Storage\|Syncing Files from Cloud Storage]]
 1. Activity: Parsing Instructions
 1. Notion
 1. Tutorial: Hot Corners
