@@ -11,16 +11,27 @@
 
 ### Thread 1, Day 1 - Monday, September 11, 2023
 #### Agenda
-1. Activity: Ultimate Rock-Paper-Scissors
-1. Course Outline
+1. Activity: [[Activities/Ultimate Rock-Paper-Scissors\|Ultimate Rock-Paper-Scissors]]
+1. [Course Outline](https://drive.google.com/file/d/1dRBdmlN6Gu955Lw10bWbd8QZ2_GojEEB/view)
+	- We used a *think-pair-share* protocol to read the course outline and then ask clarifying questions about the structure of this course.
 1. Required Course Materials
+	- Hardcover notebooks with graph paper, and copies of [A Pocket Guide to Debugging](https://store.wizardzines.com/products/the-pocket-guide-to-debugging) were distributed.
+	- Costs will be billed back to your family's account.
+	> [!NOTE]
+	> If you missed today's class, see Mr. Gordon in class or during [[Grove Time\|Grove Time]] to obtain these required course materials.
 1. Tutorial: [[Tutorials/Syncing Files from Cloud Storage\|Syncing Files from Cloud Storage]]
-1. Portfolio: [Notion](https://notion.so)
-1. Portfolio: First Post
-1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]] 
-
+1. Portfolio: [[Portfolios/Creating a Notion Account\|Creating a Notion Account]]
+1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
+1. Portfolio: [[Portfolios/First Post\|First Post]]
+1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
 #### To-do items
-- [ ] Be sure you've made a first post in your portfolio [on Notion](https://notion.so).
+*If you were present for today's class...*
+- [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
+
+*If you were absent for today's class...*
+- [ ] Review the overall agenda.
+- [ ] Read the activity summary for Ultimate Rock-Paper-Scissors.
+- [ ] Then complete the tutorials, and get started on creating your portfolio, by following links from the agenda in the order given above.
 
 </div></div>
 
