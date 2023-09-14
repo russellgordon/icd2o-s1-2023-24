@@ -13,7 +13,6 @@
 #### Agenda
 1. Activity: [[Activities/Ultimate Rock-Paper-Scissors\|Ultimate Rock-Paper-Scissors]]
 1. [Course Outline](https://drive.google.com/file/d/1dRBdmlN6Gu955Lw10bWbd8QZ2_GojEEB/view)
-	- We used a *think-pair-share* protocol to read the course outline and then ask clarifying questions about the structure of this course.
 1. Required Course Materials
 	- Hardcover notebooks with graph paper, and copies of [A Pocket Guide to Debugging](https://store.wizardzines.com/products/the-pocket-guide-to-debugging) were distributed.
 	- Costs will be billed back to your family's account.
@@ -62,8 +61,8 @@ If you have a question, **don't hesitate**, come on by!
 
 
 
-* [Notion](https://notion.so)
-* [Student Course Outline](https://bit.ly/lcscs23-g10-sco)
-* [Ministry of Education Course of Study](https://bit.ly/lcscs23-g10-mco)
+- [Notion](https://notion.so)
+- [Student Course Outline](https://bit.ly/lcscs23-g10-sco)
+- [Ministry of Education Course of Study](https://bit.ly/lcscs23-g10-mco)
 
 </div></div>
