@@ -110,6 +110,14 @@ body {
         padding-left: 1em;
     }
 
+    ul > li.task-list-item {
+        list-style: square;
+    }
+    
+    li.task-list-item > input {
+        display: none;
+    }
+
 }
 
 /* The remaining sections provide reasonable light/dark mode support */
