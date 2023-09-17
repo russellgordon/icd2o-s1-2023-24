@@ -99,16 +99,6 @@ body {
     }
 
     /* Ensure indent is consistent for lists (multiple lines are aligned) */
-/*    ul.task-list {
-        list-style: disc outside none;
-        margin-left: 0; 
-        padding-left: 1em;
-    }
-
-    li.task-list-item {
-        padding-left: 1em;
-    }*/
-
     ul > li.task-list-item {
         list-style: square;
     }
