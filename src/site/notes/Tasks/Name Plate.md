@@ -21,7 +21,7 @@ Draw the letters of your name in block letters, using a hand-drawn plan to help 
 
 Here is an example of a plan for drawing letters with consistent spacing:
 
-![Plan for drawing name.jpg](/img/user/Media/Plan%20for%20drawing%20name.jpg)
+![Plan for drawing name.png](/img/user/Media/Plan%20for%20drawing%20name.png)
 
 Note how after a while, shorthand is used to describe turtle movements. This is a good strategy for making a useful plan without taking a lot of time.
 
