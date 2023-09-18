@@ -66,6 +66,6 @@ Replies are more helpful than resolving a comment for two reasons:
 ![Screenshot 2023-09-17 at 8.45.05 PM.png|500](/img/user/Media/Screenshot%202023-09-17%20at%208.45.05%20PM.png)
 
 > [!TODO]
-> Check Notion now, and see if you have any comments suggesting revisions to your portfolio posts.
+> Check [Notion](https://notion.so) now, and see if you have any comments suggesting revisions to your portfolio posts.
 > 
 > Act on the feedback given to better demonstrate your understanding of course learning goals.
