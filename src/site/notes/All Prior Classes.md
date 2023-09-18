@@ -24,6 +24,7 @@
 3. Setup: Installing Playgrounds
 4. Setup: Subscribe to Turtle Sketches
 5. Activity: Shapes
+6. Task: Name Plate
 #### To-do items
 *If you were present for today's class...*
 - [ ] be sure you have completed the Shapes activity
