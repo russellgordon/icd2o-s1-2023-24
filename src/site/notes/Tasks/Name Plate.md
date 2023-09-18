@@ -9,7 +9,7 @@ Draw the letters of your name in block letters, using a hand-drawn plan to help 
 ## What you'll need to begin
 
 - [ ] The [[Setup/Installing Playgrounds\|Playgrounds app]] installed on your computer
-- [ ] The [[Setup/Subscribe to Turtle Sketches\|Sketches Template added to your list of playgrounds]], renamed to be titled *Shapes*
+- [ ] Another copy of the [[Setup/Subscribe to Turtle Sketches\|Sketches Template added to your list of playgrounds]], renamed to be titled *Name Plate*
 - [ ] Your black, hardcover, graph paper notebook
 ## Success criteria
 
