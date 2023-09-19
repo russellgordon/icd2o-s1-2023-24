@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 3 - Tuesday, September 19, 2023
 #### Agenda
-1. Activity: Code Review
+1. Activity: [[Activities/Shapes Code Review\|Shapes Code Review]]
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
 4. Activity: [[Tasks/Name Plate\|Name Plate]]
