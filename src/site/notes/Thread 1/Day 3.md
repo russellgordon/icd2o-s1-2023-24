@@ -10,7 +10,7 @@
 4. Activity: [[Tasks/Name Plate\|Name Plate]]
 ### To-do items
 *If you were present for today's class...*
-- [ ] Be sure you have at least complete [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
+- [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
 *If you were absent for today's class...*
