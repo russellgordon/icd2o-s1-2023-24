@@ -26,7 +26,7 @@
 4. Activity: [[Tasks/Name Plate\|Name Plate]]
 ### To-do items
 *If you were present for today's class...*
-- [ ] Be sure you have at least complete [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
+- [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
 *If you were absent for today's class...*
@@ -52,7 +52,7 @@
 5. Activity: [[Activities/Shapes\|Shapes]]
 #### To-do items
 *If you were present for today's class...*
-- [ ] If you were not able to install Playgrounds, be sure to update your computer's operating system. 
+- [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the [[Activities/Shapes\|Shapes]] activity.
 - [ ] Write a post on [Notion](https://notion.so) to [[Activities/Shapes#Reflection prompts\|respond to the reflection prompts provided]].
 
