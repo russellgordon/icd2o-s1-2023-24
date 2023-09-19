@@ -20,8 +20,10 @@
 
 ### Thread 1, Day 3 - Tuesday, September 19, 2023
 #### Agenda
-1. Demo: Keyboard Shortcuts When Coding
-1. Activity: Name Plate
+1. Activity: Code Review
+2. Activity: Going Slow to Go Fast 
+3. Demo: Keyboard Shortcuts When Coding
+4. Activity: Name Plate
 ### To-do items
 *If you were present for today's class...*
 - [ ] Be sure you have at least complete [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
