@@ -11,8 +11,9 @@
 5. Activity: [[Activities/Shapes\|Shapes]]
 #### To-do items
 *If you were present for today's class...*
-- [ ] be sure you have completed the [[Activities/Shapes\|Shapes]] activity
-- [ ] write a post on [Notion](https://notion.so) to [[Activities/Shapes#Reflection prompts\|respond to the reflection prompts provided]]
+- [ ] If you were not able to install Playgrounds, be sure to update your computer's operating system. 
+- [ ] Be sure you have completed the [[Activities/Shapes\|Shapes]] activity.
+- [ ] Write a post on [Notion](https://notion.so) to [[Activities/Shapes#Reflection prompts\|respond to the reflection prompts provided]].
 
 *If you were absent for today's class...*
 - [ ] Review the overall agenda.
