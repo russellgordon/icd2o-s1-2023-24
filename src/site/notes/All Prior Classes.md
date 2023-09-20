@@ -26,11 +26,12 @@
 	- Add shapes, color, or drawings that are personally meaningful to you.
 	  > [!EXAMPLE]
 	  > Mr. Gordon loves baseball, so he might use a green rectangle to represent grass, a blue rectangle to represent the sky, and a baseball flying through the air, with his name in the foreground.
-### To-do items for Evening Study
+### Things to do before our next class
+*If you were present...*
 - [ ] Be sure you have completed the Name Plate activity, optionally, with the extension described above.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Do your best to at least being the [[Tasks/Name Plate\|Name Plate]] activity independently.
 
@@ -50,12 +51,12 @@
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
 4. Activity: [[Tasks/Name Plate\|Name Plate]]
-### To-do items for Evening Study
-*If you were present for today's class...*
+### Things to do before our next class
+*If you were present...*
 - [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Do your best to at least being the [[Tasks/Name Plate\|Name Plate]] activity independently.
 
@@ -76,13 +77,13 @@
 3. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
 4. Setup: [[Setup/Subscribe to Turtle Sketches\|Subscribe to Turtle Sketches]]
 5. Activity: [[Activities/Shapes\|Shapes]]
-#### To-do items for Evening Study
-*If you were present for today's class...*
+#### Things to do before our next class
+*If you were present...*
 - [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the [[Activities/Shapes\|Shapes]] activity.
 - [ ] Write a post on [Notion](https://notion.so) to [[Activities/Shapes#Reflection prompts\|respond to the reflection prompts provided]].
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Make [[Portfolios/Reviewing Replies and Making Improvements\|improvements to your portfolio]], based on the individualized feedback you received.
 - [ ] Read the activity summary for [[Activities/Parsing Instructions\|Parsing Instructions]].
@@ -110,11 +111,11 @@
 1. Tutorial: [[Tutorials/Creating Bookmarks\|Creating Bookmarks]] 
 1. Portfolio: [[Portfolios/First Post\|First Post]]
 1. Tutorial: [[Tutorials/Hot Corners\|Hot Corners]]
-#### To-do items for Evening Study
-*If you were present for today's class...*
+#### Things to do before our next class
+*If you were present...*
 - [ ] Be sure you have [[Portfolios/First Post\|written your first portfolio post]] to summarize what you learned and ask any questions you may have.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Read the activity summary for Ultimate Rock-Paper-Scissors.
 - [ ] Then complete the tutorials, and get started on creating your portfolio, by following links from the agenda in the order given above.
