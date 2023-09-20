@@ -9,11 +9,11 @@
 3. Demo: Keyboard Shortcuts When Coding
 4. Activity: [[Tasks/Name Plate\|Name Plate]]
 ### Things to do before our next class
-*If you were present...*
+*If you were present today...*
 - [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
-*If you were absent...*
+*If you were absent today...*
 - [ ] Review the overall agenda.
 - [ ] Do your best to at least begin the [[Tasks/Name Plate\|Name Plate]] activity independently.
 
