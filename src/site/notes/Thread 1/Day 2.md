@@ -9,7 +9,7 @@
 3. Setup: [[Setup/Installing Playgrounds\|Installing Playgrounds]]
 4. Setup: [[Setup/Subscribe to Turtle Sketches\|Subscribe to Turtle Sketches]]
 5. Activity: [[Activities/Shapes\|Shapes]]
-#### To-do items
+#### To-do items for Evening Study
 *If you were present for today's class...*
 - [ ] If you were not able to install Playgrounds, be sure to [[Setup/macOS Ventura\|update your computer's operating system]]. 
 - [ ] Be sure you have completed the [[Activities/Shapes\|Shapes]] activity.
