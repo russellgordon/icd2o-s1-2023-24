@@ -4,20 +4,20 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 3 - Tuesday, September 19, 2023
+### Thread 1, Day 4 - Wednesday, September 20, 2023
 #### Agenda
-1. Activity: [[Activities/Shapes Code Review\|Shapes Code Review]]
-2. Activity: Going Slow to Go Fast 
-3. Demo: Keyboard Shortcuts When Coding
-4. Activity: [[Tasks/Name Plate\|Name Plate]]
-### To-do items
-*If you were present for today's class...*
-- [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
+1. Activity: [[Tasks/Name Plate\|Name Plate]]
+	- Today, once you finish the initial task (be sure to carefully review the [[Tasks/Name Plate#Success criteria\|success criteria]]), look for ways to extend your name plate.
+	- Add shapes, color, or drawings that are personally meaningful to you.
+	  > [!EXAMPLE]
+	  > Mr. Gordon loves baseball, so he might use a green rectangle to represent grass, a blue rectangle to represent the sky, and a baseball flying through the air, with his name in the foreground.
+### To-do items for Evening Study
+- [ ] Be sure you have completed the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
 *If you were absent for today's class...*
