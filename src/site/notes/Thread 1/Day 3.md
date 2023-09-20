@@ -8,12 +8,12 @@
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
 4. Activity: [[Tasks/Name Plate\|Name Plate]]
-### To-do items for Evening Study
-*If you were present for today's class...*
+### Things to do before our next class
+*If you were present...*
 - [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
-*If you were absent for today's class...*
+*If you were absent...*
 - [ ] Review the overall agenda.
 - [ ] Do your best to at least being the [[Tasks/Name Plate\|Name Plate]] activity independently.
 
