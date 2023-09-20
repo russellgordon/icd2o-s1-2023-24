@@ -33,7 +33,7 @@
 
 *If you were absent...*
 - [ ] Review the overall agenda.
-- [ ] Do your best to at least being the [[Tasks/Name Plate\|Name Plate]] activity independently.
+- [ ] Do your best to finish the [[Tasks/Name Plate\|Name Plate]] activity; do not worry about today's extension.
 
 
 
@@ -58,7 +58,7 @@
 
 *If you were absent...*
 - [ ] Review the overall agenda.
-- [ ] Do your best to at least being the [[Tasks/Name Plate\|Name Plate]] activity independently.
+- [ ] Do your best to at least begin the [[Tasks/Name Plate\|Name Plate]] activity independently.
 
 
 
