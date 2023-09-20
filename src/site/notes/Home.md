@@ -17,11 +17,11 @@
 	  > [!EXAMPLE]
 	  > Mr. Gordon loves baseball, so he might use a green rectangle to represent grass, a blue rectangle to represent the sky, and a baseball flying through the air, with his name in the foreground.
 ### Things to do before our next class
-*If you were present...*
+*If you were present today...*
 - [ ] Be sure you have completed the Name Plate activity, optionally, with the extension described above.
 - [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
 
-*If you were absent...*
+*If you were absent today...*
 - [ ] Review the overall agenda.
 - [ ] Do your best to finish the [[Tasks/Name Plate\|Name Plate]] activity; do not worry about today's extension.
 
