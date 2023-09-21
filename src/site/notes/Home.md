@@ -4,26 +4,31 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 4 - Wednesday, September 20, 2023
+### Thread 1, Day 5 - Thursday, September 21, 2023
 #### Agenda
-1. Activity: [[Tasks/Name Plate\|Name Plate]]
-	- Today, once you finish the initial task (be sure to carefully review the [[Tasks/Name Plate#Success criteria\|success criteria]]), look for ways to extend your name plate.
-	- Add shapes, color, or drawings that are personally meaningful to you.
-	  > [!EXAMPLE]
-	  > Mr. Gordon loves baseball, so he might use a green rectangle to represent grass, a blue rectangle to represent the sky, and a baseball flying through the air, with his name in the foreground.
+1. Portfolio: Sharing Long Blocks of Code
+2. Task: Name Plate
+	- Please use the *Coding Task - Final Entry* template on [Notion](https://notion.so)  to wrap up your efforts on this task – complete each section of the template.
+	  ![Screenshot 2023-09-21 at 8.45.37 AM.png|200](/img/user/Media/Screenshot%202023-09-21%20at%208.45.37%20AM.png)
+	> [!NOTE]
+	> Be sure to copy and paste the reflection prompts into the final section of the template and then author your responses.
+3. Concept: Introduction to Loops
+4. Concept: Introduction to Functions
+5. Activity: Analysing an Image
+	  
 ### Things to do before our next class
 *If you were present today...*
-- [ ] Be sure you have completed the Name Plate activity, optionally, with the extension described above.
-- [ ] Write a post on [Notion](https://notion.so) to describe your progress and ask any questions that you may have.
+- [ ] Do your best to finish the image analysis activity, including the reflection prompts and final post on [Notion](https://notion.so).
 
 *If you were absent today...*
 - [ ] Review the overall agenda.
-- [ ] Do your best to finish the [[Tasks/Name Plate\|Name Plate]] activity; do not worry about today's extension.
+- [ ] Follow the links given and review the two new concepts that were introduced.
+- [ ] Do your best to finish the image analysis activity, including the reflection prompts and final post on [Notion](https://notion.so).
 
 
 
