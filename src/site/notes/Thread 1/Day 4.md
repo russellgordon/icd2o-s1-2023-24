@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 4 - Wednesday, September 20, 2023
 #### Agenda
-1. Activity: [[Tasks/Name Plate\|Name Plate]]
+1. Task: [[Tasks/Name Plate\|Name Plate]]
 	- Today, once you finish the initial task (be sure to carefully review the [[Tasks/Name Plate#Success criteria\|success criteria]]), look for ways to extend your name plate.
 	- Add shapes, color, or drawings that are personally meaningful to you.
 	  > [!EXAMPLE]
