@@ -4,12 +4,12 @@
 
 ### Thread 1, Day 5 - Thursday, September 21, 2023
 #### Agenda
-1. Portfolio: Sharing Long Blocks of Code
-2. Task: Name Plate
+1. Portfolio: [[Portfolios/Sharing Long Blocks of Code\|Sharing Long Blocks of Code]]
+2. Task: [[Tasks/Name Plate\|Name Plate]]
 	- Please use the *Coding Task - Final Entry* template on [Notion](https://notion.so)  to wrap up your efforts on this task – complete each section of the template.
 	  ![Screenshot 2023-09-21 at 8.45.37 AM.png|200](/img/user/Media/Screenshot%202023-09-21%20at%208.45.37%20AM.png)
 	> [!NOTE]
-	> Be sure to copy and paste the reflection prompts into the final section of the template and then author your responses.
+	> Be sure to copy and paste the [[Tasks/Name Plate#Reflection prompts\|reflection prompts]] into the final section of the template and then author your responses.
 3. Concept: Introduction to Loops
 4. Concept: Introduction to Functions
 5. Activity: Analysing an Image
