@@ -8,10 +8,42 @@
 
 ### Thread 1
 
+- [[All Prior Classes#Thread 1, Day 5 - Thursday, September 21, 2023\|Day 5 - Thursday, September 21, 2023]]
 - [[All Prior Classes#Thread 1, Day 34 - Wednesday, September 20, 2023\|Day 4 - Wednesday, September 20, 2023]]
 - [[All Prior Classes#Thread 1, Day 3 - Tuesday, September 19, 2023\|Day 3 - Tuesday, September 19, 2023]]
 - [[All Prior Classes#Thread 1, Day 2 - Monday, September 18, 2023\|Day 2 - Monday, September 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Monday, September 11, 2023\|Day 1 - Monday, September 11, 2023]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 5 - Thursday, September 21, 2023
+#### Agenda
+1. Portfolio: Sharing Long Blocks of Code
+2. Task: Name Plate
+	- Please use the *Coding Task - Final Entry* template on [Notion](https://notion.so)  to wrap up your efforts on this task – complete each section of the template.
+	  ![Screenshot 2023-09-21 at 8.45.37 AM.png|200](/img/user/Media/Screenshot%202023-09-21%20at%208.45.37%20AM.png)
+	> [!NOTE]
+	> Be sure to copy and paste the reflection prompts into the final section of the template and then author your responses.
+3. Concept: Introduction to Loops
+4. Concept: Introduction to Functions
+5. Activity: Analysing an Image
+	  
+### Things to do before our next class
+*If you were present today...*
+- [ ] Do your best to finish the image analysis activity, including the reflection prompts and final post on [Notion](https://notion.so).
+
+*If you were absent today...*
+- [ ] Review the overall agenda.
+- [ ] Follow the links given and review the two new concepts that were introduced.
+- [ ] Do your best to finish the image analysis activity, including the reflection prompts and final post on [Notion](https://notion.so).
+
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -21,7 +53,7 @@
 
 ### Thread 1, Day 4 - Wednesday, September 20, 2023
 #### Agenda
-1. Activity: [[Tasks/Name Plate\|Name Plate]]
+1. Task: [[Tasks/Name Plate\|Name Plate]]
 	- Today, once you finish the initial task (be sure to carefully review the [[Tasks/Name Plate#Success criteria\|success criteria]]), look for ways to extend your name plate.
 	- Add shapes, color, or drawings that are personally meaningful to you.
 	  > [!EXAMPLE]
@@ -50,7 +82,7 @@
 1. Activity: [[Activities/Shapes Code Review\|Shapes Code Review]]
 2. Activity: Going Slow to Go Fast 
 3. Demo: Keyboard Shortcuts When Coding
-4. Activity: [[Tasks/Name Plate\|Name Plate]]
+4. Task: [[Tasks/Name Plate\|Name Plate]]
 ### Things to do before our next class
 *If you were present today...*
 - [ ] Be sure you have at least completed [[Tasks/Name Plate#Success criteria\|a clear plan]] for the Name Plate activity.
