@@ -4,22 +4,22 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-1/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 1, Day 5 - Thursday, September 21, 2023
+### Thread 1, Day 6 - Monday, September 25, 2023
 #### Agenda
-1. Portfolio: [[Portfolios/Sharing Long Blocks of Code\|Sharing Long Blocks of Code]]
-2. Task: [[Tasks/Name Plate\|Name Plate]]
-	- Please use the *Coding Task - Final Entry* template on [Notion](https://notion.so)  to wrap up your efforts on this task – complete each section of the template.
-	  ![Screenshot 2023-09-21 at 8.45.37 AM.png|200](/img/user/Media/Screenshot%202023-09-21%20at%208.45.37%20AM.png)
-	> [!NOTE]
-	> Be sure to copy and paste the [[Tasks/Name Plate#Reflection prompts\|reflection prompts]] into the final section of the template and then author your responses.
+1. Portfolio: [[Learning Goals\|Learning Goals]]
+	- Understand the purpose of learning goals and how to tag evidence in your portfolio with a goal.
+2. Survey: [T-shirt size for upcoming Shadow Prints Task](https://docs.google.com/forms/d/e/1FAIpQLSeC50vcmm2ULTpi2Li_tCEbtKPjYORLL_CnNvT4Q9_IbZKoGw/viewform)
+	- Please follow the link to complete the survey so that a t-shirt of the correct size is ordered for you.
 3. Concept: [[Concepts/Introduction to Loops\|Introduction to Loops]]
 4. Concept: [[Concepts/Introduction to Functions\|Introduction to Functions]]
 5. Activity: [[Activities/Analysing an Image\|Analysing an Image]]
+	- If you have not tried this activity yet, begin it today.
+	- If you completed this last week, see Mr. Gordon to select another image to practice *abstraction* with – that is, the process of looking for where loops and functions can be applied.
 	  
 ### Things to do before our next class
 *If you were present today...*
@@ -63,5 +63,7 @@ If you have a question, **don't hesitate**, come on by!
 - [Notion](https://notion.so)
 - [Student Course Outline](https://bit.ly/lcscs23-g10-sco)
 - [Ministry of Education Course of Study](https://bit.ly/lcscs23-g10-mco)
+- [[Curriculum/Overall and Specific Expectations\|Curriculum]]
+- [[Learning Goals\|Learning Goals]]
 
 </div></div>
