@@ -8,7 +8,7 @@
 
 ### Thread 1
 
-- [[All Prior Classes#Thread 1, Day 6 - Monday, September 25, 2023\|Monday, September 25, 2023]]
+- [[All Prior Classes#Thread 1, Day 6 - Monday, September 25, 2023\|Day 6 - Monday, September 25, 2023]]
 - [[All Prior Classes#Thread 1, Day 5 - Thursday, September 21, 2023\|Day 5 - Thursday, September 21, 2023]]
 - [[All Prior Classes#Thread 1, Day 34 - Wednesday, September 20, 2023\|Day 4 - Wednesday, September 20, 2023]]
 - [[All Prior Classes#Thread 1, Day 3 - Tuesday, September 19, 2023\|Day 3 - Tuesday, September 19, 2023]]
