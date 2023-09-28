@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/thread-1/day-7/","dgHomeLink":true}
 ---
 
+
+### Thread 1, Day 7 - Tuesday, September 26, 2023
 #### Agenda
 1. Activity: [[Activities/Going Home Again\|Going Home Again]]
 	- A look at how a function can help us separate parts of a drawing.
