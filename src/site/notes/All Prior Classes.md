@@ -30,7 +30,7 @@
 ### Thread 1, Day 11 - Wednesday, October 4, 2023
 #### Agenda
 1. Task: [[Tasks/T-Shirt Shadow Prints\|T-Shirt Shadow Prints]]
-	- Some students will be making their shirt in today's class; remaining students are to finish off their code.
+	- Most remaining students will be making their shirt in today's class; if you have not finished your code yet, please complete it over the long weekend. There will be a final opportunity, during a Grove Time next week, to make a shirt.
 		> [!IMPORTANT]
 		> Please be sure to make a final entry in Notion and [respond to these reflection prompts](https://icd2o-s1-2023-24.russellgordon.ca/tasks/t-shirt-shadow-prints/#reflection-prompts) when you are done.
 		
