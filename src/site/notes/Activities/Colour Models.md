@@ -27,7 +27,7 @@ Forest green|80|100|60|![Pasted image 20231011065655.png](/img/user/Media/Pasted
 Brighter, more saturated|?|?|?|![Pasted image 20231011065828.png](/img/user/Media/Pasted%20image%2020231011065828.png)
 Complementary|?|?|?|![Pasted image 20231011065837.png](/img/user/Media/Pasted%20image%2020231011065837.png)
 
-It is hard to think intuitively about how to change red, green, and blue values to change a given colour in the manner you desire.
+It is hard to think intuitively about how to change red, green, and blue values to obtain desired changes to a colour.
 
 Fortunately, there is an alternative...
 
