@@ -180,3 +180,5 @@ Colours are near each other on the colour wheel.
 	                             alpha: 100.0/100.0)
 	}
 	```
+
+5. Experiment with changing the `alpha` value and making some overlapping shapes. What do you notice?
