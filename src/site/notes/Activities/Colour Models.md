@@ -168,14 +168,15 @@ Colours are near each other on the colour wheel.
    ![Screenshot 2023-10-11 at 7.50.26 AM.png](/img/user/Media/Screenshot%202023-10-11%20at%207.50.26%E2%80%AFAM.png)
    
    Here is a code segment to get you started:
-   ```swift
-   for i in 1 ... 36 {
-
-    let hue = Double(i) * 10.0
-
-    turtle.fillColor = Color(hue: hue/360.0,
-                             saturation: 80.0/100.0,
-                             brightness: 90.0/100.0,
-                             alpha: 100.0/100.0)
-}
-```
+   
+	```swift
+	for i in 1 ... 36 {
+	
+	    let hue = Double(i) * 10.0
+	
+	    turtle.fillColor = Color(hue: hue/360.0,
+	                             saturation: 80.0/100.0,
+	                             brightness: 90.0/100.0,
+	                             alpha: 100.0/100.0)
+	}
+	```
