@@ -14,7 +14,7 @@
 	- If you have not tried this activity yet, begin it today.
 	- If you completed this last week, see Mr. Gordon to select another image to practice *abstraction* with – that is, the process of looking for where loops and functions can be applied.
 	  
-### Things to do before our next class
+##### Things to do before our next class
 *If you were present today...*
 - [ ] Do your best to finish the image analysis activity, including the [[Activities/Analysing an Image#Reflection prompts\|reflection prompts]] and final post on [Notion](https://notion.so).
 
