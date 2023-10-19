@@ -10,5 +10,5 @@
 	- T-shirts will be made in our next period.
 2. Activity: [[Activities/Keyboard Shortcuts\|Keyboard Shortcuts]] 
 	- Try this out if you are finished your T-Shirt Shadow Prints code.
-## Things to do before our next class
+#### Things to do before our next class
 - [ ] Submit your code no later than 10 PM this evening.
