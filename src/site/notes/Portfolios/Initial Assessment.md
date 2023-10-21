@@ -27,7 +27,7 @@ This initial self-assessment of your portfolio should be completed prior to the 
 > 
 > Act on the feedback given to better demonstrate your understanding of course learning goals.
 
-## Assess your current achievement level
+## Learning goals addressed so far
 
 We are just past the three-quarters mark on the first module of this course.
 
@@ -40,7 +40,7 @@ We have completed activities and tasks designed to give you multiple opportuniti
 
 
 
-## 1
+### 1
 
 I know how to protect my privacy and keep my devices secure and organized.
 
@@ -55,7 +55,7 @@ I know how to protect my privacy and keep my devices secure and organized.
 
 
 
-## 4
+### 4
 
 I can plan for and describe the steps needed to solve a given task in a variety of ways.
 
@@ -70,7 +70,7 @@ I can plan for and describe the steps needed to solve a given task in a variety 
 
 
 
-## 5
+### 5
 
 I can explain the concepts of sequence, selection, and repeating events and apply them in code to obtain desired results.
 
@@ -85,7 +85,7 @@ I can explain the concepts of sequence, selection, and repeating events and appl
 
 
 
-## 6
+### 6
 
 I can describe how abstraction is used within an existing program and author programs of my own that apply abstraction.
 
@@ -94,6 +94,8 @@ I can describe how abstraction is used within an existing program and author pro
 
 
 ---
+
+## Assess your current achievement level
 
 ==To confidently assert that you have *met* expectations, you should have at least three different pieces of evidence in your portfolio that fit for most of the learning goals above.==
 
