@@ -194,7 +194,7 @@ body {
 /* Try to show TOC even when window resized to be smaller */
 @media (max-width: 800px) {
     .toc {
-        .display: block !important;
+        display: block !important;
     }
 }
 
