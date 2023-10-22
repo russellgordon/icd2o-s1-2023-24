@@ -201,37 +201,37 @@ body {
 */
 @media (max-width: 800px) {
     #link-graph {
-        border-radius:0 10px 10px 10px;
+        border-radius:0 10px 10px 10px !important;
     }
 
     .sidebar {
-        position: relative;
-        transform: none;
-        border-radius: 4px;
-        margin-top: 50px;
-        max-width: 700px;
-        margin: auto;
-        border-radius: 0;
-        border-top: 2px solid var(--background-secondary);
-        justify-content:space-between;
+        position: relative !important;
+        transform: none !important;
+        border-radius: 4px !important;
+        margin-top: 50px !important;
+        max-width: 700px !important;
+        margin: auto !important;
+        border-radius: 0 !important;
+        border-top: 2px solid var(--background-secondary) !important;
+        justify-content:space-between !important;
     }
 
     .sidebar-container {
-        display: flex;
-        flex-direction: row;
-        justify-content:space-between;
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content:space-between !important;
     }
 
     .graph {
-        flex:1;
+        flex:1 !important;
     }
 
     .graph .graph-title-container {
-        justify-content:flex-start;
+        justify-content:flex-start !important;
     }
 
     .toc {
-        display:none;
+        display:none !important;
     }
 }
 
