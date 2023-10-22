@@ -191,6 +191,13 @@ body {
     }
 }
 
+/* Try to show TOC even when window resized to be smaller */
+@media (max-width: 800px) {
+    .toc {
+        .display: block !important;
+    }
+}
+
 /* The remaining sections provide reasonable light/dark mode support */
 @media (prefers-color-scheme: light) {
     :root {
