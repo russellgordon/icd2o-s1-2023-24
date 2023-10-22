@@ -191,50 +191,6 @@ body {
     }
 }
 
-/* Try to show TOC even when window resized to be smaller */
-/*
-@media (min-width: 800px) {
-    .toc {
-        display: block !important;
-    }
-}
-*/
-@media (min-width: 800px) {
-    #link-graph {
-        border-radius:0 10px 10px 10px !important;
-    }
-
-    .sidebar {
-        position: relative !important;
-        transform: none !important;
-        border-radius: 4px !important;
-        margin-top: 50px !important;
-        max-width: 700px !important;
-        margin: auto !important;
-        border-radius: 0 !important;
-        border-top: 2px solid var(--background-secondary) !important;
-        justify-content:space-between !important;
-    }
-
-    .sidebar-container {
-        display: flex !important;
-        flex-direction: row !important;
-        justify-content:space-between !important;
-    }
-
-    .graph {
-        flex:1 !important;
-    }
-
-    .graph .graph-title-container {
-        justify-content:flex-start !important;
-    }
-
-    .toc {
-        display:none !important;
-    }
-}
-
 /* The remaining sections provide reasonable light/dark mode support */
 @media (prefers-color-scheme: light) {
     :root {
