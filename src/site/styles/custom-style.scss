@@ -185,6 +185,10 @@ body {
     flex-direction: column;
     margin-top: initial;
     padding-right: 0px !important;
+
+    header {
+        padding-top: 20px;
+    }
 }
 
 /* The remaining sections provide reasonable light/dark mode support */
