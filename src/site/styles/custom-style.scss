@@ -173,6 +173,11 @@ body {
         color: hsl(0, 0, 41);
     }
 
+    /* Let content scroll under navbar */
+    .navbar {
+        position: fixed;
+    }
+
 
 }
 
