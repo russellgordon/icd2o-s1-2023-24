@@ -40,7 +40,7 @@ We have completed activities and tasks designed to give you multiple opportuniti
 
 
 
-### 1
+### 1 
 
 I know how to protect my privacy and keep my devices secure and organized.
 
