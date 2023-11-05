@@ -12,7 +12,7 @@ Tag the post with that learning goal.
 
 Over time, you will accumulate enough evidence in your portfolio to support the assertion that you have met and perhaps exceeded expectations for the learning goal in question.
 
-### 1
+### 1 
 
 I know how to protect my privacy and keep my devices secure and organized.
 
