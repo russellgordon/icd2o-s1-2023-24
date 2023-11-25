@@ -8,7 +8,7 @@
 
 ### Thread 2
 
-- [[All Prior Classes#Thread 2, Day 4 - Saturday, November 25, 2023\|Saturday, November 25, 2023]]
+- [[All Prior Classes#Thread 2, Day 4 - Saturday, November 25, 2023\|Day 4 - Saturday, November 25, 2023]]
 - [[All Prior Classes#Thread 2, Day 3 - Friday, November 24, 2023\|Day 3 - Friday, November 24, 2023]]
 - [[All Prior Classes#Thread 2, Day 2 - Thursday, November 23, 2023\|Day 2 - Thursday, November 23, 2023]]
 - [[All Prior Classes#Thread 2, Day 1 - Tuesday, November 21, 2023\|Day 1 - Tuesday, November 21, 2023]]
@@ -39,7 +39,7 @@
 
 ### Thread 2, Day 4 - Saturday, November 25, 2023
 #### Agenda
-1.  Discussion: User Authentication
+1.  Discussion: [[Discussions/User Authentication\|User Authentication]]
 	- How can we identify ourselves when using services online?
 1. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- Continue making progress on challenges.
