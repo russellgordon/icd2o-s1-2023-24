@@ -23,20 +23,11 @@
 # Portfolio 
 
 ## Missing
-- Dallin
-- James
-- Lola
-- Marcus
-
-## Lacking detail
-- Jakob
-- Griffin
-- Jameson
-- Jonathan
-- Kevin
-- Lola
-- Rupert
-- 
+- Thomas C
+- Kevin L
+- Kaan (empty)
+- Blake
+- Axel
 
 
 # Upcoming topics
@@ -59,6 +50,7 @@
 
 ## Students showing an interest in...
 
+- Leo: Steganography & cryptography
 - quantum computing
 - rainbow table
 - hash function ** definitely revisit
