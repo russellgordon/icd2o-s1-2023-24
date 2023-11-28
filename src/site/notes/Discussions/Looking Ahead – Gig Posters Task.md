@@ -4,7 +4,7 @@
 
 # Looking Ahead: Gig Posters Task
 
-Here are a couple of few examples of what students in last year's Grade 10 Introduction to Computer Studies classes authored in this part of the course, last year.
+Here are a few examples of what students in last year's Grade 10 Introduction to Computer Studies classes authored in this part of the course, last year.
 
 ![a.png](/img/user/Media/a.png)
 
