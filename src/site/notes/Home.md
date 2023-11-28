@@ -25,7 +25,7 @@
 </div></div>
 
 ## All Prior Classes
-You can see details of [[All Prior Classes\|all prior classes]] here. pu
+You can see details of [[All Prior Classes\|all prior classes]] here.
 ___
 ## Grove Time
 
