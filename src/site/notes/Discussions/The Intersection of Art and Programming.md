@@ -10,7 +10,7 @@ Writing code is an abstract task.
 
 Seeing graphical output from the code you write as a beginning programmer helps to make the abstract *concrete* – that is to to say – more easily understood.
 
-We create graphical output in this course as a *means to an end* –that end is learning how to program a computer.
+We create graphical output in this course as a *means to an end* – that end is learning how to program a computer.
 
 It turns out that programming a computer to express yourself creatively is something that many people do professionally.
 
