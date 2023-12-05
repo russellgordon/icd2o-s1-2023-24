@@ -13,7 +13,7 @@
 #### Agenda
 1. Portfolios: Review Feedback
 	- Take the time to review feedback given and make necessary improvements.
-2. Activity: Ramones
+2. Activity: [[Activities/Ramones\|Ramones]]
 	- Show that you really understand iteration and sequence by reproducing this gig poster. 🎸
 3. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
