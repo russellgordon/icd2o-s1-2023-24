@@ -9,13 +9,8 @@
 	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
 		- Often during this process, you will realize the source of the problem you are having.
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
-2. Activity: The Replacements Gig Poster - Applying Abstraction
-	- Learn how to identify repeated elements in a drawing and then apply abstraction by authoring a function. 🚀
-	> [!TODO]
-	> 
-	> As you complete the activity, take note of new vocabulary that is introduced.
-	> 
-	> Describe your understanding of these new terms in the Notion post that you make for today's class.
+2. Activity: [[Activities/Ramones, Revisited\|Ramones, Revisited]]
+	- Finish the job on the Ramones poster by considering sequence, iteration, and making a careful plan.
 
 ###### Things to do before our next class
 - [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and summarize what you've learned today about abstraction.
