@@ -15,7 +15,7 @@
 	- A super-short tutorial showing how to quickly find a given type of file.
 1. Optional Activity: [[Activities/Ramones, Revisited\|Ramones, Revisited]]
 	- If you were away yesterday, or just want to review what we did, here is a writeup of the approach taken to analyze and complete the Ramones poster.
-1. Activity: The Replacements Gig Poster - Applying Abstraction
+1. Activity: [[Activities/The Replacements Gig Poster - Applying Abstraction\|The Replacements Gig Poster - Applying Abstraction]]
 	- Learn how to identify repeated elements in a drawing and then apply abstraction by authoring a function. 🚀
 	> [!TODO]
 	> 
