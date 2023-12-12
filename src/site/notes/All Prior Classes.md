@@ -47,7 +47,7 @@
 
 ### Thread 2, Day 12 - Tuesday, December 12, 2023
 #### Agenda
-1. Activity: [[Activities/Refused and Iggy Pop - Nested Loops\|Refused and Iggy Pop - Nested Loops]]
+1. Activity: [Refused and Iggy Pop - Nested Loops](https://icd2o-s2-2023-24.russellgordon.ca/activities/heartbreakers-and-the-pixies-selection-statements/)
 	- Learn how to use nested loops to produce a grid of shapes. 💪🏼
 2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
