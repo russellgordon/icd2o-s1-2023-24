@@ -5,7 +5,7 @@
 ### Thread 2, Day 12 - Tuesday, December 12, 2023
 #### Agenda
 1. Activity: [[Activities/Refused and Iggy Pop - Nested Loops\|Refused and Iggy Pop - Nested Loops]]
-	- Learn how to use nested loops to produce a grid of shapes. 💪🏼
+	- Learn how to use nested loops to produce a grid of shapes... 💪🏼
 2. Activity: [[Activities/Computer Security with Hacktivate\|Computer Security with Hacktivate]]
 	- With any time you have remaining in class today, you are welcome to continue working on Hacktivate challenges.
 
