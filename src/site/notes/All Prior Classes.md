@@ -8,6 +8,7 @@
 
 ### Thread 2
 
+- [[All Prior Classes#Thread 2, Day 14 - Friday, December 15, 2023\|Day 14 - Friday, December 15, 2023]]
 - [[All Prior Classes#Thread 2, Day 13 - Thursday, December 14, 2023\|Day 13 - Thursday, December 14, 2023]]
 - [[Thread 2/Day 12#Thread 2, Day 12 - Tuesday, December 12, 2023\|Day 12 - Tuesday, December 12, 2023]]
 - [[All Prior Classes#Thread 2, Day 11 - Thursday, December 7, 2023\|Day 11 - Thursday, December 7, 2023]]
@@ -39,6 +40,28 @@
 - [[All Prior Classes#Thread 1, Day 2 - Monday, September 18, 2023\|Day 2 - Monday, September 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Monday, September 11, 2023\|Day 1 - Monday, September 11, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-14/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 14 - Friday, December 15, 2023
+#### Agenda
+1. Task: [[Tasks/Custom Gig Poster\|Custom Gig Poster]]
+	- If you have not done so yet, begin this task today.
+	> [!IMPORTANT]
+	> Your final product must be handed in before you leave LCS for the Winter Break.
+
+###### Things to do before our next class
+- [ ] Make a portfolio post [on Notion](https://notion.so), share your progress, and summarize your learning as a result of completing today's activity.
+	- Here are two examples of posts you might make today:
+		- A post [about your plan](https://www.notion.so/lakefieldcs/Thread-2-Day-12-Custom-Gig-Poster-Plan-fded8b0f598148389e3f2db52d0a700c?pvs=4)
+		- A post about [your initial progress](https://www.notion.so/lakefieldcs/Thread-2-Day-13-Custom-Gig-Poster-v1-d5bbb39bf2fa4f998770b5cd48c7caf6?pvs=4)
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 2\|Back to top of thread 2 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-2/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
