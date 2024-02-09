@@ -8,7 +8,7 @@
 
 ### Thread 3
 
-- [[All Prior Classes#Thread 2, Day 3 - Friday, November 24, 2023\|Day 3 - Friday, November 24, 2023]]
+- [[All Prior Classes#Thread 3, Day 3 - Friday, February 9, 2024\|Friday, February 9, 2024]]
 - [[All Prior Classes#Thread 3, Day 2 - Thursday, February 8, 2024\|Day 2 - Thursday, February 8, 2024]]
 - [[All Prior Classes#Thread 3, Day 1 - Monday, February 5, 2024\|Day 1 - Monday, February 5, 2024]]
 
