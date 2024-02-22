@@ -12,6 +12,11 @@
 	> Be sure to [complete the template](https://docs.google.com/document/d/1_LakGY9NncwgEwylJX11jS6Vlzz2YejJ7fAV4q2Uo8s/copy) to document how each procedure you author works. 
 	> 
 	> Correctly completing this template is part of the [[Tasks/Authoring Class-Level Procedures#Success criteria and exemplar\|success criteria]] for this task – [here is a video showing how to do this](https://www.youtube-nocookie.com/embed/0IPvZ1x4qSM) – Mr. Gordon will also demonstrate in person for anyone who wants to see this in-class. 
+2. Concept: [[Concepts/First Person Perspective, Proximity, and Scoring\|First Person Perspective, Proximity, and Scoring]]
+	- Learn how to use *event listeners*.
+		- This allows an Alice scene to respond to key press events.
+		- We can also detect when two object get close to one another.
+	- Additionally, learn how to track and show a score using a head's up display.
 
 ###### Things to do before our next class
 
