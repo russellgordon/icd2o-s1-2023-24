@@ -6,8 +6,7 @@
 #### Agenda
 1. Task: [[Tasks/Authoring Class-Level Procedures\|Authoring Class-Level Procedures]]
 	- You have the rest of the period to make further progress with your [[Tasks/Authoring Class-Level Procedures\|mid-module task]].
-	- Your goal should be to complete your second procedure by our next class.
 
 ###### Things to do before our next class
 
-- [ ] Make progress on your [[Tasks/Authoring Class-Level Procedures\|mid-module task]] by completing your second procedure and clearly documenting that [on Notion](https://notion.so).
+- [ ] Make progress on your [[Tasks/Authoring Class-Level Procedures\|mid-module task]] by completing at least one procedure and clearly documenting that [on Notion](https://notion.so).
