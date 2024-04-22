@@ -4,23 +4,20 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-3/day-13/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 13 - Friday, March 1, 2024
+### Thread 4, Day 1 - Monday, April 22, 2024
 #### Agenda
-1. Task: [[Tasks/Creative Alice World\|Creative Alice World]]
-	- Continue making progress on your task during the period.
-	- Mr. Gordon will check in with each person individually and ask you to hand in your work-in-progress via Notion during class.
-	> [!NOTE]
-	> 
-	> You may continue to work on your end-of-mod task until 11 PM on Saturday, March 2, 2024.
+1. Culminating Task: [[Tasks/App Development Partnership (S1)\|App Development Partnership]]
+	- Understanding the parameters of the task that will be completed instead of a final exam in this course.
+2. Activity: [Introduction to Thunkable](https://www.russellgordon.ca/lcs/2023-24/icd2o/Introduction_to_Thunkable.pdf)
+	- Learn a bit about Thunkable, which may be a useful platform for delivering your culminating task solution.
 
-###### Things to do for Evening Study
-
-- [ ] Via Notion, please and in the final version of your end-of-module task prior to 11 PM on Saturday, if you have not done so already.
+###### Things to do before our next class
+- [ ] Try to implement a guessing game in Thunkable, with as many improvements to the gameplay as you can come up with.
 
 </div></div>
 
