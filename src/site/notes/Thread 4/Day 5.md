@@ -16,7 +16,7 @@
 		- [Kenney.nl](https://kenney.nl)
 		- [itch.io](https://itch.io/game-assets/free/tag-2d)
 
-> [!NOTE]
+> [!IMPORTANT]
 > 
 > Please keep track of the source(s) from where you obtain image and audio assets for your game. These should be cited within your game – for example – on a "Credits" screen.
 
