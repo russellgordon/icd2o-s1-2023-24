@@ -4,25 +4,21 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-6-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 6 - Tuesday, April 30, 2024
+### Thread 4, Day 6.5 - Thursday, May 2, 2024
 #### Agenda
 1. Culminating Task: [[Tasks/App Development Partnership (S1)\|App Development Partnership]]
-	- This is your second working period to implement the plans you have made with your partner(s) at Lakefield DPS.
-	- Here is a video Mr. Gordon recorded to explain how to program core game play for most types of apps that students are working on:
+	- Here are all videos Mr. Gordon has recorded to explain how to program core game play for most types of apps that students are working on:
 		- [Math Quiz](https://www.youtube.com/watch?v=ZFmUKV2IcPM)
+		- [Multiple Choice](https://youtu.be/sUo-4wQzXSc)
+		- [Vocabulary Quiz](https://youtu.be/etDWMpTUATk)
 		> [!NOTE]
-		> More mini-videos like this are coming soon. Categories to be covered are:
-		> - Multiple Choice
-		> - Vocabulary Quiz
-	- Mr. Gordon is going to begin class by working in a small group with the students whose apps involve telling time.
-		- Please [open this project to get started](https://x.thunkable.com/copy/42739b3883c075495ecc5d6b575465a8) with the telling-time tutorial.
-		- Students working on apps involving time may find these sites useful:
-			- [Customizable Clock Faces](https://www.blocklayer.com/clock-face)
+		> We did not have a class today; this post exists to share newly created instructional resources with you.
+
 		
 ###### Things to do before our next class
 - [ ] Make progress on implementation of your app idea.
