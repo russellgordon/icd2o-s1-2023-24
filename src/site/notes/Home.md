@@ -4,24 +4,48 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-7-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 7 - Friday, May 3, 2024
-#### Agenda
-1. Culminating Task: [[Tasks/App Development Partnership (S1)\|App Development Partnership]]
-	- Today, we make our third visit to Lakefield District Public School, to collect feedback on software prototypes, or minimum viable products.
-	- While we are there, LDPS students will [think aloud as they try out your software prototypes](https://www.youtube.com/embed/0YL0xoSmyZI). 
-	- Be sure to [take notes on the feedback given](https://www.russellgordon.ca/lcs/2023-24/icd2o/ICD2O_-_App_Development_Partnership_%E2%80%93_Visit_3.pdf) and work to manage the expectations of your LDPS partners, if needed.
+### Thread 4, Day 7.5 - Saturday, May 4, 2024
 
-		
-###### Things to do before our next class
-- [ ] Make progress on implementation of your app idea.
-	- On [Notion](https://notion.so), share screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
-	- Please also share photos of the notes you took today and add any additional thoughts you have about what to do next based on your conversation at LDPS.
+> [!NOTE]
+> We did not have a class today; this post exists to share newly created instructional resources with you.
 
+#### Resources
+
+- Here are some additional videos Mr. Gordon has recorded to demonstrate a variety of ideas:
+	- [How to Move Screens from One Thunkable Project to Another](https://youtu.be/k_2rvjraCOg)
+	- [Custom Fonts, Sharing Scores Between Screens, and Backgrounds](https://youtu.be/cLYWhW1gf48)
+	- [Randomly Selecting Animations to Show, Sound Effects, and Images](https://youtu.be/ANLsQiKhLy4)
+	- [How to Handle Sprite Sheets](https://youtu.be/UlAJwtdxPqY)
+		- Sometimes many tiny image assets come embedded in a single large image file. This video explains how to easily "slice up" a sprite sheet into many smaller individual image files in seconds.
+		- Also learn how to quickly crop unwanted pixels to create a transparent background using Preview.
+- Here are a couple of examples of using the Canvas component with stages and sprites.
+	- Mr. Gordon is available to explain more about how these projects work to anyone who is interested:
+		- [Cloning Sprites](https://x.thunkable.com/copy/a9424f26e2a2e56948825d321a1880f1) (gems, trinkets)
+		- [Chicken Run](https://x.thunkable.com/copy/48fea4823118359ab377b91cf20b91dc) (a small game)
+- Here are several more sites with useful assets:
+	- [Custom TTF Fonts](https://www.fontspace.com/category/ttf)
+	- [Pixabay - Royalty Free Sound Effects](https://pixabay.com/sound-effects/)
+	- [GameArtGuppy](https://www.gameartguppy.com/shop/)
+		- This is the source of the [fruit and food images](https://www.gameartguppy.com/shop/food-icons/)! 😎
+	- [The Spriters Resource](https://www.spriters-resource.com)
+		- Many retro video game assets.
+- Here are sites useful for slicing up sprite sheets (see video above on this topic):
+	- [EZGif Sprite Sheet Cutter](https://ezgif.com/sprite-cutter)
+		- This is useful when you know the size of individual frames.
+		- For example, 32x32 pixels or 16x16.
+	- [Tools3ox Sprite Sheet Cutter](https://www.tools3ox.com/tools/images/ssc/)
+		- This site has an "automatic mode" for slicing up sprite sheets where each frame has a slightly different size.
+
+> [!TIP]
+> 
+> This is not a must-do, but many websites sharing image assets are heavily littered with intrusive ads (and probably data trackers, too).
+> 
+> Consider installing an alternative browser that blocks ads and trackers by default; [Vivaldi is one option](https://vivaldi.com/download/) Mr. Gordon has been using lately. It uses the same rendering engine as Chrome (so it will work with all the same sites) but it is *much* nicer to browse the web without intrusive ads.
 
 </div></div>
 
