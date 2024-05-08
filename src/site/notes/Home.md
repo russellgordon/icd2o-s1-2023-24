@@ -16,6 +16,9 @@
 	- Continue making progress on implementing functionality in your app prior to our final visit to LDPS this Friday at 8:30 AM, when the final version of your app will be delivered to your partners.
 	- Be sure to consult [[All Prior Classes\|All Prior Classes]] to access prior resources shared to help you build out your apps.
 
+> [!NOTE]
+> Mr. Gordon will be running a Grove Time from 12:30 to 2:00 PM on Thursday (tomorrow) in room 36 to handle any (small) last minute questions.
+
 ###### Things to do before our next class
 - [ ] Make progress on implementation of your app idea.
 	- Be certain to briefly share an update [on Notion](https://notion.so), including screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
