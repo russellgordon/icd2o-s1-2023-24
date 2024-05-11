@@ -4,24 +4,30 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 9 - Wednesday, May 8, 2024
+### Thread 4, Day 11 - Saturday, May 11, 2024
 #### Agenda
-1. Culminating Task: [[Tasks/App Development Partnership (S1)\|App Development Partnership]]
-	- This is your fourth and final working period to implement the plans you have made with your partner(s) at Lakefield DPS.
-	- Continue making progress on implementing functionality in your app prior to our final visit to LDPS this Friday at 8:30 AM, when the final version of your app will be delivered to your partners.
-	- Be sure to consult [[All Prior Classes\|All Prior Classes]] to access prior resources shared to help you build out your apps.
-
-> [!NOTE]
-> Mr. Gordon will be running a Grove Time from 12:30 to 2:00 PM on Thursday (tomorrow) in room 36 to handle any (small) last minute questions.
+1. End of Course Interview
+	- First, please [make a copy of this template](https://docs.google.com/presentation/d/1V59-XQPipj9V4tGQRdX8g2xUnLPBEUY362Xh-0_fIOA/copy).
+		- We will discuss the prompts together now.
+	- Then, please [submit a link to your interview slides](https://docs.google.com/forms/d/1dAx51PR0XXuiqs_jsA20o4v8IQTyrKf2LkrIzA-bmNw/edit).
+		- This will facilitate swift turnarounds between interviews on Monday morning.
+	- Here is the order of interviews on Monday (TBD – will generate the list live in class and then publish).
+	- This interview counts for 10% of your final grade and falls within the Communication evaluation category.
+	  
+> [!IMPORTANT]
+> 
+> Please be sure that all the evidence you wish to have considered for your culminating task is in your portfolio by 10 PM on Sunday. This is to ensure your attention is not divided as you prepare for final evaluations in other courses.
 
 ###### Things to do before our next class
-- [ ] Make progress on implementation of your app idea.
-	- Be certain to briefly share an update [on Notion](https://notion.so), including screenshot(s) and a link to the current state of your project (if using Thunkable) or the **.a3p** file (if using Alice).
+- [ ] Prepare for your end-of-course interview by completing your interview slide deck.
+
+> [!NOTE]
+> There is no need to make a portfolio post for today's class.
 
 </div></div>
 
@@ -38,6 +44,7 @@ ___
 Day|Time|Location
 -|-|-
 Tuesday|12:30 PM to 2 PM|Room 36
+Thursday|12:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 
