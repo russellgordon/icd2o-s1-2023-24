@@ -17,7 +17,7 @@
 > 
 > Please be sure that all the evidence you wish to have considered for your culminating task is in your portfolio by 10 PM on Sunday. This is to ensure your attention is not divided as you prepare for final evaluations in other courses.
 
-###### Things to do before our next class
+###### Things to do before our final class
 - [ ] Prepare for your end-of-course interview by completing your interview slide deck.
 
 > [!NOTE]
