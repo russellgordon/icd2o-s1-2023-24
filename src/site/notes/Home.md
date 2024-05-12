@@ -11,12 +11,13 @@
 
 ### Thread 4, Day 11 - Saturday, May 11, 2024
 #### Agenda
-1. End of Course Interview
+1. End of Course Interview Prep
 	- First, please [make a copy of this template](https://docs.google.com/presentation/d/1V59-XQPipj9V4tGQRdX8g2xUnLPBEUY362Xh-0_fIOA/copy).
 		- We will discuss the prompts together now.
 	- Then, please [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSf4Mdf2dXcFxpW-sAtTRxBEtrs_biN0H5y-X2itKWCUMS70Nw/viewform).
 		- This will facilitate swift turnarounds between interviews on Monday morning.
-	- Here is the order of interviews on Monday (TBD – will generate the list live in class and then publish).
+	- Here is the order of interviews on Monday:
+	  ![Screenshot 2024-05-11 at 11.16.34 AM.png|550](/img/user/Media/Screenshot%202024-05-11%20at%2011.16.34%E2%80%AFAM.png)
 	- This interview counts for 10% of your final grade and falls within the Communication evaluation category.
 	  
 > [!IMPORTANT]
