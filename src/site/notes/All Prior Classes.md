@@ -8,6 +8,7 @@
 
 ### Thread 4
 
+- [[All Prior Classes#Thread 4, Day 12 - Monday, May 13, 2024\|Day 12 - Monday, May 13, 2024]]
 - [[All Prior Classes#Thread 4, Day 11 - Saturday, May 11, 2024\|Day 11 - Saturday, May 11, 2024]]
 - [[All Prior Classes#Thread 4, Day 10 - Friday, May 10, 2024\|Day 10 - Friday, May 10, 2024]] 
 - [[All Prior Classes#Thread 4, Day 9 - Wednesday, May 8, 2024\|Day 9 - Wednesday, May 8, 2024]] 
@@ -75,6 +76,32 @@
 - [[All Prior Classes#Thread 1, Day 2 - Monday, September 18, 2023\|Day 2 - Monday, September 18, 2023]]
 - [[All Prior Classes#Thread 1, Day 1 - Monday, September 11, 2023\|Day 1 - Monday, September 11, 2023]]
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 12 - Monday, May 13, 2024
+#### Agenda
+1. End of Course Interview
+	- Here is the order of interviews for this morning:
+	  ![Screenshot 2024-05-11 at 11.16.34 AM.png|550](/img/user/Media/Screenshot%202024-05-11%20at%2011.16.34%E2%80%AFAM.png)
+	- Please wait on the chair outside room 36 when your interview is next.
+		- For example, Seb will wait outside room 36 while Lola completes her interview, and so on.
+	- At some point this morning, please [complete the course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSedrAliNHvICQnmBJlaCfKlm8L_l0lAqzAjmIBwkyZ9d5Nizw/viewform).
+		- This form is anonymous.
+		- Your constructive feedback is valued – thank-you in advance for your time with this.
+	  
+> [!IMPORTANT]
+> 
+> Most of you will be dismissed at 11:30 AM. Please wait until I come out to dismiss you. Until then, to minimize traffic and noise in the academic block, please stay in Hadden Hall, with the exception essential trips to the washroom. 
+
+
+
+</div></div>
+
+<small>[[All Prior Classes#Thread 4\|Back to top of thread 4 ⬆]]</small>
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
