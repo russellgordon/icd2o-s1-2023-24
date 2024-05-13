@@ -4,31 +4,27 @@
 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/thread-4/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 11 - Saturday, May 11, 2024
+### Thread 4, Day 12 - Monday, May 13, 2024
 #### Agenda
-1. End of Course Interview Prep
-	- First, please [make a copy of this template](https://docs.google.com/presentation/d/1V59-XQPipj9V4tGQRdX8g2xUnLPBEUY362Xh-0_fIOA/copy).
-		- We will discuss the prompts together now.
-	- Then, please [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSf4Mdf2dXcFxpW-sAtTRxBEtrs_biN0H5y-X2itKWCUMS70Nw/viewform).
-		- This will facilitate swift turnarounds between interviews on Monday morning.
-	- Here is the order of interviews on Monday:
+1. End of Course Interview
+	- Here is the order of interviews for this morning:
 	  ![Screenshot 2024-05-11 at 11.16.34 AM.png|550](/img/user/Media/Screenshot%202024-05-11%20at%2011.16.34%E2%80%AFAM.png)
-	- This interview counts for 10% of your final grade and falls within the Communication evaluation category.
+	- Please wait on the chair outside room 36 when your interview is next.
+		- For example, Seb will wait outside room 36 while Lola completes her interview, and so on.
+	- At some point this morning, please [complete the course feedback form](https://docs.google.com/forms/d/e/1FAIpQLSedrAliNHvICQnmBJlaCfKlm8L_l0lAqzAjmIBwkyZ9d5Nizw/viewform).
+		- This form is anonymous.
+		- Your constructive feedback is valued – thank-you in advance for your time with this.
 	  
 > [!IMPORTANT]
 > 
-> Please be sure that all the evidence you wish to have considered for your culminating task is in your portfolio by 10 PM on Sunday. This is to ensure your attention is not divided as you prepare for final evaluations in other courses.
+> Most of you will be dismissed at 11:30 AM. Please wait until I come out to dismiss you. Until then, to minimize traffic and noise in the academic block, please stay in Hadden Hall, with the exception essential trips to the washroom. 
 
-###### Things to do before our final class
-- [ ] Prepare for your end-of-course interview by completing your interview slide deck.
 
-> [!NOTE]
-> There is no need to make a portfolio post for today's class.
 
 </div></div>
 
